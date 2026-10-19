@@ -1,0 +1,10 @@
+{
+  "name": "MID MASTER V4.5",
+  "short_name": "MID V4.5",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b111a",
+  "theme_color": "#101722",
+  "description": "Motor de Inteligencia y Predicción de fútbol con matriz de marcadores e historial.",
+  "icons": []
+}
